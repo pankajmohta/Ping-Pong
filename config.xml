@@ -1,0 +1,65 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "ishandivyansh"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Pingpong</name>
+
+  <description>
+      lets have fun
+  </description>
+
+  <author  email="pankajmohta2001@yahoo.com">
+      Ishan Mohta
+  </author>
+<icon src="icon.png"/>
+
+</widget>
+Edit this page on GitHub
+Looking for more help?
+If you're having issues that aren't solved here, be sure to check out the following:
+PHONEGAP FORUM
+PhoneGap/Cordova community forum to use for finding info and posting issues.
+GO TO THE FORUM
+STACKOVERFLOW
+For PhoneGap specific questions.
+GET THE ANSWERS
+MEETUP.COM
+Consider finding (or starting) a local Cordova/PhoneGap meetup group.
+SEE WHAT'S HAPPENING
+GET STARTED NOW
+Find out how to install PhoneGap, then create and preview an app on your device — almost as fast as a robot could do it.
+
+READ OUR BLOG
+Have you read our latest blog post yet? If not, go now… there is solid gold in that post.
+
+ABOUT 0.1.1
+Project Overview
+License
+FAQs
+Apache Cordova
+Logo
+Contact Us
+DOCS & RESOURCES
+Documentation
+Community Forum
+Third Party Tools
+Events
+Books
+Plugin Library
+WE'RE EVERYWHERE
+GitHub
+Twitter
+Facebook
+YouTube
+STAY CONNECTED TO PHONEGAP
+If you'd like us to keep in touch with the latest news and updates, subscribe now.
+Enter your email address
+Copyright © 2018 Adobe. All rights reserved.
+Use of this website signifies your agreement to theTerms of Use andPrivacy Policy and Cookies.
+(v0.1.1)
