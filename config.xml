@@ -20,7 +20,6 @@
 
 
 <access origin="*" />
-<preference name="phonegap-version" value="3.0.0" />
 <gap:plugin name="org.apache.cordova.file" />
 
 </widget>
