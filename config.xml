@@ -20,6 +20,5 @@
 
 
 <access origin="*" />
-<gap:plugin name="org.apache.cordova.file" />
 
 </widget>
